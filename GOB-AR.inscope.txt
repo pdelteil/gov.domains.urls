@@ -1,0 +1,3 @@
+*.gob.ar
+gob.ar
+*.tucuman.gob.ar

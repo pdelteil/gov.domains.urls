@@ -1,0 +1,2 @@
+*.gov.ng
+gov.ng

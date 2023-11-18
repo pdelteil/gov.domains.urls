@@ -1,0 +1,4 @@
+*.gov.co
+gov.co
+*.embajada.gov.co
+*.mision.gov.co
