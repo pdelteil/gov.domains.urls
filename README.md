@@ -10,6 +10,9 @@ GOB-AR.inscope.txt | 3
 GOB-AR.urls.txt | 23396
 GOB-BO.domains.txt | 7115
 GOB-BO.urls.txt | 3055
+GOB-BR.domains.txt | 133126
+GOB-BR.inscope.txt | 2
+GOB-BR.urls.txt | 58720
 GOB-CL.domains.txt | 49072
 GOB-CL.inscope.txt | 330
 GOB-CL.urls.txt | 25064
